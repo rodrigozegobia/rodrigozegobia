@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rodrigozegobia, what's up?
+- 👀 I’m interested in lots of things!! Coding and watching movies are big ones.
+- 🌱 I’m currently learning C++, HTML, CSS, JavaScript, ...many more to come...
+- 💞️ I’m looking to collaborate on ... Not yet, i'm too busy right now :(
+- 📫 How to reach me -> email:rodrigo.zegobia@aluno.ifsp.edu.br
+- There isn't much here yet, but anyway, you're welcome friend! :)
