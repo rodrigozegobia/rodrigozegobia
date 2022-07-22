@@ -4,7 +4,7 @@
 - :heart_eyes: Focusing in Front-End Development
 
 <div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical)">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=radical">
 </div>
 <div>
