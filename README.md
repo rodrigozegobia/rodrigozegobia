@@ -15,6 +15,5 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-      width: 100%;">
    <img align="center" alt="Alba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-    width: 100%;">
 </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rodrigo-zegóbia-827700234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigo-zeg%C3%B3bia-827700234?trk=profile-badge">Rodrigo Zegóbia</a></div>
+<div><a href="https://br.linkedin.com/in/rodrigo-zeg%C3%B3bia-827700234?trk=profile-badge">Linkedin</a></div>
               
