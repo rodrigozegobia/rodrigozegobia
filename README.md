@@ -15,5 +15,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-      width: 100%;">
    <img align="center" alt="Alba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-    width: 100%;">
 </div>
-<div><a href="https://br.linkedin.com/in/rodrigo-zeg%C3%B3bia-827700234?trk=profile-badge">Linkedin</a></div>
+<br>
+<div><a href="https://br.linkedin.com/in/rodrigo-zeg%C3%B3bia-827700234?trk=profile-badge">My Linkedin</a></div>
               
