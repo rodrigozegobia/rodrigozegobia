@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Rodrigo Zegóbia, what's up?
 - :book: Graduating in BTech for Internet Systems Development at Federal Institute of São Paulo
-- 📫 How to reach me -> email:rodrigo.zegobia@aluno.ifsp.edu.br
+- 📫 How to reach me -> email: rodrigo.zegobia@aluno.ifsp.edu.br
 - :heart_eyes: Focusing in Front-End Development
 
 <div>
