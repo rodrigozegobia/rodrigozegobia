@@ -7,3 +7,6 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical)">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=radical">
 </div>
+<div>
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+</div>
