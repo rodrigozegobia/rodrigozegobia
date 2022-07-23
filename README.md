@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Rodrigo Zegóbia, what's up?
-- :smiling_face_with_tear: Dropped out of computer engineering(5/10) at UFPEL because of Covid-19 pandemic
+- :smiling_face_with_tear: Dropped out of computer engineering(5/10) at UFPEL amidst Covid-19 pandemic
 - :book: Graduating in BTech for Internet Systems Development at Federal Institute of São Paulo (2/6)
 - 📫 How to reach me -> email: rodrigo.zegobia@aluno.ifsp.edu.br
 - :heart_eyes: Focusing in Front-End Development
