@@ -1,8 +1,6 @@
-- 👋 Hello, I’m Rodrigo Zegóbia, what's up?
-- :smiling_face_with_tear: Dropped out of computer engineering(5/10) at UFPEL amidst Covid-19 pandemic
-- :book: Graduating in BTech for Internet Systems Development at Federal Institute of São Paulo (2/6)
-- 📫 How to reach me -> email: rodrigo.zegobia@aluno.ifsp.edu.br
-- :heart_eyes: Focusing in Front-End Development
+<h1>👋 Olá, eu me chamo Rodrigo Zegóbia.</h1>
+- 📫email: rodrigo.zegobia@aluno.ifsp.edu.br
+- :heart_eyes: Focado em desenvolvimento web
 
 <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical">
