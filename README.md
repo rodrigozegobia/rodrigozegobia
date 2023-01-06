@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu me chamo Rodrigo.</h1>
+<h1>👋 Olá, seja bem-vindo(a).</h1>
 <p>📫Email: rodrigo.zegobia@aluno.ifsp.edu.br
 - :heart_eyes: Focando em desenvolvimento web
 - Meu github é uma zona.:ok_hand:</p>
