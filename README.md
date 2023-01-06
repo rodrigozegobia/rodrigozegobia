@@ -1,6 +1,7 @@
-<h1>👋 Olá, eu me chamo Rodrigo Zegóbia.</h1>
-- 📫email: rodrigo.zegobia@aluno.ifsp.edu.br
-- :heart_eyes: Focado em desenvolvimento web
+<h1>👋 Olá, eu me chamo Rodrigo.</h1>
+📫email: rodrigo.zegobia@aluno.ifsp.edu.br
+- :heart_eyes: Focando em desenvolvimento web
+- Meu github é uma zona.
 
 <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical">
