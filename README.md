@@ -1,7 +1,5 @@
 <h1>👋 Olá, seja bem-vindo(a).</h1>
-<p>📫Email: rodrigo.zegobia@aluno.ifsp.edu.br
-- :heart_eyes: Focando em desenvolvimento web
-- Meu github é uma zona.:ok_hand:</p>
+<p>📫Email: rodrigo.zegobia@aluno.ifsp.edu.br</p>
 <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=radical">
