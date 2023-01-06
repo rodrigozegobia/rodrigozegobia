@@ -1,5 +1,5 @@
 <h1>👋 Olá, eu me chamo Rodrigo.</h1>
-📫email: rodrigo.zegobia@aluno.ifsp.edu.br
+📫Email: rodrigo.zegobia@aluno.ifsp.edu.br
 - :heart_eyes: Focando em desenvolvimento web
 - Meu github é uma zona.:ok_hand:
 
