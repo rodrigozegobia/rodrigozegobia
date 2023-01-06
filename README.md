@@ -1,11 +1,11 @@
-<h1>👋 Olá, seja bem-vindo(a).</h1>
+<h1>Olá, seja bem-vindo(a).</h1>
 <p>📫Email: rodrigo.zegobia@aluno.ifsp.edu.br</p>
 <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=radical">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=radical">
 </div>
 <div>
-  <p><strong>Especialidades:</strong></p>
+  <p><strong>Minhas especialidades:</strong></p>
   <ul>
       <li><img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-        width: 100%;">CSS3</li>
       <li><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:    100%;">HTML5</li>
