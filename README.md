@@ -23,7 +23,7 @@
 </th>
 <th>
 <ul>
-<li> - [] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="max-width:    100%;"></li>
+<li> - [ ] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="max-width:    100%;"></li>
 <li> - [ ] <img align="center" alt="Alba-React" height="30" width="40" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" style="max-    width: 100%;"></li>
 <li> - [ ] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" style="max-      width: 100%;"></li>
  <li> - [ ] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" style="max-      width: 100%;"></li>
@@ -31,9 +31,9 @@
 </th>
 <th>
 <ul>
-<li> - [x] <img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" style="max-        width: 100%;"></li>
-<li> - [x] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" style="max-width:    100%;"></li>
-<li> - [x] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" style="max-      width: 100%;"></li>
+<li> - [ ] <img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" style="max-        width: 100%;"></li>
+<li> - [ ] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" style="max-width:    100%;"></li>
+<li> - [ ] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" style="max-      width: 100%;"></li>
  </ul>
 </th>
 </thead>
