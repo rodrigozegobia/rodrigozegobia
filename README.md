@@ -17,7 +17,7 @@
 <ul>
 <li> - [x] <img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" style="max-        width: 100%;"></li>
 <li> - [x] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="max-width:    100%;"></li>
-<li> - [x] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-      width: 100%;"></li>
+<li> - [x] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" style="max-      width: 100%;"></li>
 <li> - [x] <img align="center" alt="Alba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-    width: 100%;"></li>
  </ul>
 </th>
