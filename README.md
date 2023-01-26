@@ -1,5 +1,5 @@
-<h1>Olá.<h1>
-<h2>📫Email: rodrigo.zegobia@aluno.ifsp.edu.br<h2>
+# Olá.
+## 📫Email: rodrigozegobia@gmail.com
 <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c">
