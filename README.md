@@ -1,8 +1,8 @@
 <h1>Olá, seja bem-vindo(a).</h1>
 <p>📫Email: rodrigo.zegobia@aluno.ifsp.edu.br</p>
 <div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=C++,C#">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=Csharp,Cpp,Cs">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c#">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c#">
 </div>
 <div>
   <p><strong>Minhas especialidades:</strong></p>
