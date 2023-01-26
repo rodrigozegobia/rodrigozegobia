@@ -6,7 +6,7 @@
 <h2>Especialidades:</h2>
 <ul>
       <li>- [x] <img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-        width: 100%;">__Css__</li>
-      <li>- [x] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:    100%;">__Html__</li>
+      <li>- [x] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:    100%;"> ** Html ** </li>
       <li>- [x] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-      width: 100%;">__Javascript__</li>
       <li>- [x] <img align="center" alt="Alba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-    width: 100%;">__React__</li>
 </ul>
