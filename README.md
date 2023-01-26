@@ -18,7 +18,7 @@
 <li> - [x] <img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" style="max-        width: 100%;"></li>
 <li> - [x] <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="max-width:    100%;"></li>
 <li> - [x] <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" style="max-      width: 100%;"></li>
-<li> - [x] <img align="center" alt="Alba-React" height="30" width="40" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" style="max-    width: 100%;"></li>
+<li> - [x] <img align="center" alt="Alba-React" height="30" width="40" src="https://www.svgrepo.com/show/330398/express.svg" style="max-    width: 100%;"></li>
  </ul>
 </th>
 </thead>
