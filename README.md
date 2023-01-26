@@ -4,7 +4,7 @@
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c">
 <h2>Especialidades:</h2>
-<div background-color="#ffffff"><ul>
+<div background="#ffffff"><ul>
       <li>- [x] <img align="center" alt="Alba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-        width: 100%;">Css</li>
       <li><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:    100%;">Html</li>
       <li><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-      width: 100%;">Javascript</li>
