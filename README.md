@@ -25,6 +25,7 @@
 <th>
 <ul>
 <li> - [ ] <img align="center" alt="node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"></li>
+<li> - [ ] <img align="center" alt="express.js" height="40" width="40" src="https://camo.githubusercontent.com/1832c112a84c968134e982cb31d779a27c1923f65077b4f5368782e26de8c4e7/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f657870726573732d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d383363643239"></li>
 <li> - [ ] <img align="center" alt="express.js" height="40" width="40" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png"></li>
 <li> - [ ] <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"></li>
  <li> - [ ] <img align="center" alt="redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"></li>
