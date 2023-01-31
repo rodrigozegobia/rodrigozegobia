@@ -1,5 +1,5 @@
 <h1>MERN Stack student</h1>
-<h2>Man, coding is hard...</h2>
+<h2>Coding is hard...funny hard!</h2>
 <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c">
