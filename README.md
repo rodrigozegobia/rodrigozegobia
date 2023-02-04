@@ -1,7 +1,7 @@
 <h1>MERN Stack student</h1>
 <h2>MERN stands for:</h2>
 <ul>
- <li>**M**ongoDB — document database</li>
+ <li> ** M ** ongoDB — document database</li>
  <li>Express(.js) — Node.js web framework</li>
  <li>React(.js) — a client-side JavaScript framework</li>
  <li>Node(.js) — the premier JavaScript web server</li>
