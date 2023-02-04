@@ -1,10 +1,10 @@
 <h1>MERN Stack student</h1>
 <h2>MERN stands for:</h2>
 <ul>
- <li><strong>M</strong>ongoDB — document database</li> **m**
- <li>Express(.js) — Node.js web framework</li>
- <li>React(.js) — a client-side JavaScript framework</li>
- <li>Node(.js) — the premier JavaScript web server</li>
+ <li><strong>M</strong>ongoDB — document database</li>
+ <li><strong>E</strong>xpress(.js) — Node.js web framework</li>
+ <li><strong>R</strong>eact(.js) — a client-side JavaScript framework</li>
+ <li><strong>N</strong>ode(.js) — the premier JavaScript web server</li>
 </ul>
 <div>
 <!--<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
