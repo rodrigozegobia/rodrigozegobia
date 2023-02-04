@@ -1,4 +1,11 @@
 <h1>MERN Stack student</h1>
+<h2>MERN stands for</h2>
+<ul>
+ <li>MongoDB — document database</li>
+ <li>Express(.js) — Node.js web framework</li>
+ <li>React(.js) — a client-side JavaScript framework</li>
+ <li>Node(.js) — the premier JavaScript web server</li>
+</ul>
 <div>
 <!--<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c">-->
