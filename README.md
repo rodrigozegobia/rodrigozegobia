@@ -1,5 +1,5 @@
 <h1>MERN Stack student</h1>
-<h2>MERN stands for:</h2>
+<h3>MERN stands for:</h3>
 <ul>
  <li><strong>M</strong>ongoDB — document database</li>
  <li><strong>E</strong>xpress(.js) — Node.js web framework</li>
