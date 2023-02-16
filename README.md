@@ -9,7 +9,7 @@
 <p>The MERN architecture allows you to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON.</p>
 <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c">
+<!--<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c">-->
 <h2>Skill set:</h2>
 <table>
 <thead>
