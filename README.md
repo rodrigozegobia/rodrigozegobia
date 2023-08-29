@@ -8,31 +8,26 @@
 <tr>
 <th>
 <ul>
-<li> - [x] <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></li>
-<li> - [x] <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></li>
-<li> - [x] <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></li>
-<li> - [x] <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></li>
+ <li> - [x] <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></li>
+ <li> - [x] <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></li>
+ <li> - [x] <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></li>
+ <li> - [x] <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></li>
  </ul>
 </th>
  <th>
 <ul>
  <li> - [x] <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></li>
-<li> - [x] <img align="center" alt="jquery" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg"></li>
-<li> - [x] <img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"></li>
-<li> - [ ] <img align="center" alt="figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"></li>
+ <li> - [x] <img align="center" alt="jquery" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg"></li>
+ <li> - [x] <img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"></li>
+ <li> - [ ] <img align="center" alt="figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"></li>
  </ul>
 </th>
 <th>
 <ul>
-<li> - [ ] <img align="center" alt="node.js" height="40" width="40" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></li>
-<li> - [ ] <img align="center" alt="express.js" height="40" width="40" src="https://camo.githubusercontent.com/1832c112a84c968134e982cb31d779a27c1923f65077b4f5368782e26de8c4e7/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f657870726573732d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d383363643239"></li>
-<li> - [ ] <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"></li>
+ <li> - [ ] <img align="center" alt="next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg"></li>
  <li> - [ ] <img align="center" alt="redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"></li>
- </ul>
-</th>
-<th>
-<ul>
  <li> - [x] <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"></li>
+ <li> - [x] <img align="center" alt="SpringBoot" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></li>
  </ul>
 </th>
 </thead>
