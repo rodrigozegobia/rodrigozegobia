@@ -1,7 +1,7 @@
 <h1>Full Stack student</h1>
 <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigozegobia&theme=react&hide=c">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c&hide=html&hide=css">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozegobia&theme=react&hide=c,html,css">
 <h2>Skill set:</h2>
 <table>
 <thead>
